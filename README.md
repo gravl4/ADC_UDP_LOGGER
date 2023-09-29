@@ -1,4 +1,9 @@
 # ADC_UDP_LOGGER
+
+www.vauag.com - open source project www.vauag.ru
+
+Currenly limits: NOT SUPPORTED ARCHIVE 
+
 View and log analog signals ADC from UPD stream 
 
 linux lite utilite for vizualise ADC data. For example from CH32V307 or STM32 via Ethernet and easy UPD stream
