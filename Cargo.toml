@@ -1,0 +1,29 @@
+[package]
+name = "DV"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "DV"
+path = "src/main.rs" 
+#[build]
+#target-dir = "build_RUST"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#x11= { version="2.20.0", features = ["xlib"] }
+#x11 = { git = "https://github.com/AltF02/x11-rs.git", features = ["xlib"]  }
+x11 = {path= "../x11-rs-master/x11/", features = ["xlib"] } 
+
+libc = "0.2"
+chrono = "0.4"
+#num-traits = "0.2"
+#num-derive = "0.2"
+
+[build-dependencies]
+pkg-config = "0.3.24"
+
+[features]
+USE_DEBUG = []
+DO_TIMING = []
+TRACE_GUI= []

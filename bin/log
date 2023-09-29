@@ -1,0 +1,46 @@
+Data visualizator started
+Reading configuration...
+FontFamily: helvetica, FontLen: 20, FontWeight: bold
+Initializing GUI...
+ScrWidth: 1600   ScrHeight: 900
+PixMap_Grid: 113246210   PixMap_Graph0: 113246211   PixMap_Graph1: 113246212   PixMap_Wnd: 113246213   XDefaultDepth: 24
+Error of loading helvetica font
+Consider using default font
+ascent: 16   descent: 4
+ChScale_xx: 60   ChName_xx: 60
+Wnd_main: 113246216
+ascent: 16   descent: 4   overall: 150, 13 0
+ascent: 16   descent: 4   overall: 150, 13 0
+Graph_x0= Width- ChScale_xx* 4- 3: 957   DrawArea_xLeft+ Graph_xx+ 3: 957   ChScale_xLeft- 2: 955
+Graph_A_Ch_y0: 807 (-761)
+reading by 22 bytes
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 957   DrawArea_xLeft+ Graph_xx+ 3: 957   ChScale_xLeft- 2: 955
+Graph_A_Ch_y0: 803 (-757)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
+ConfigureNotify
+Graph_x0= Width- ChScale_xx* 4- 3: 1255   DrawArea_xLeft+ Graph_xx+ 3: 1255   ChScale_xLeft- 2: 1253
+Graph_A_Ch_y0: 657 (-611)
